@@ -1,0 +1,9 @@
+﻿.env
+*.log
+uploads/*
+!uploads/.gitkeep
+core/temp/*
+!core/temp/.gitkeep
+core/config/db.config.php
+.DS_Store
+Thumbs.db
