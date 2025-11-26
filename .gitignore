@@ -1,0 +1,36 @@
+﻿# System files
+Thumbs.db
+.DS_Store
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Dependencies
+vendor/
+node_modules/
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+
+# Cache
+cache/
+*.cache
+
+# Uploads
+Upload/uploads/
+!Upload/uploads/.gitkeep
+
+# Temporary files
+tmp/
+temp/
+*.tmp
